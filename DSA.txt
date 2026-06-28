@@ -1,0 +1,323 @@
+1. Basics + Complexity
+
+Time Complexity basics
+
+Space Complexity
+
+Big-O, Ω, Θ numericals
+
+Recurrence relations
+
+Master Theorem numericals
+
+🟢 2. Arrays (🔥 VERY IMPORTANT)
+
+Easy → Medium → Hard
+
+Reverse array
+
+Find min & max
+
+Kadane’s Algorithm
+
+Move zeroes
+
+Rotate array
+
+Merge sorted arrays
+
+Majority element
+
+Best time to buy & sell stock (I, II)
+
+Product of array except self
+
+Two Sum
+
+Three Sum
+
+Container with most water
+
+Subarray sum = K
+
+Maximum subarray sum
+
+Trapping Rain Water
+
+Longest consecutive sequence
+
+👉 LeetCode must:
+1, 53, 121, 122, 238, 11, 15, 42, 128
+
+🟢 3. Strings
+
+Reverse string
+
+Check palindrome
+
+Anagram
+
+Longest common prefix
+
+Valid parentheses
+
+Remove duplicates
+
+Longest substring without repeating characters
+
+String compression
+
+Implement strstr
+
+Longest palindromic substring
+
+👉 LC:
+125, 242, 20, 3, 5
+
+🟢 4. Searching & Sorting
+Searching
+
+Linear Search
+
+Binary Search
+
+First & last occurrence
+
+Search in rotated sorted array
+
+Sorting
+
+Bubble Sort
+
+Selection Sort
+
+Insertion Sort
+
+Merge Sort
+
+Quick Sort
+
+Counting Sort
+
+Radix Sort
+
+👉 LC:
+704, 33
+
+🟢 5. Recursion & Backtracking
+
+Factorial
+
+Fibonacci
+
+Power(x,n)
+
+Subsets
+
+Permutations
+
+Combination Sum
+
+N-Queens
+
+Rat in a Maze
+
+Sudoku Solver
+
+👉 LC:
+46, 78, 39, 51, 37
+
+🟢 6. Linked List (🔥 Interview Favourite)
+
+Reverse linked list
+
+Detect loop (Floyd cycle)
+
+Find middle
+
+Merge two sorted lists
+
+Remove nth node
+
+Intersection point
+
+Palindrome linked list
+
+Add two numbers
+
+Copy list with random pointer
+
+👉 LC:
+206, 141, 876, 21, 19, 160, 234, 2, 138
+
+🟢 7. Stack
+
+Implement stack
+
+Valid parentheses
+
+Next greater element
+
+Stock span problem
+
+Min stack
+
+Largest rectangle in histogram
+
+👉 LC:
+20, 496, 155, 84
+
+🟢 8. Queue
+
+Implement queue
+
+Circular queue
+
+Queue using stack
+
+Sliding window maximum
+
+👉 LC:
+239, 232
+
+🟢 9. Hashing
+
+Frequency count
+
+Two sum (hash map)
+
+Subarray sum = K
+
+Longest substring without repeating
+
+Group anagrams
+
+👉 LC:
+1, 560, 3, 49
+
+🟢 10. Trees (🔥🔥 SUPER IMPORTANT)
+Binary Tree
+
+Inorder / Preorder / Postorder
+
+Level order traversal
+
+Height of tree
+
+Diameter of tree
+
+Balanced tree
+
+Lowest Common Ancestor
+
+Path sum
+
+Binary Search Tree
+
+Insert / Delete
+
+Validate BST
+
+Kth smallest element
+
+👉 LC:
+94, 102, 104, 543, 110, 236, 112, 98, 230
+
+🟢 11. Heaps / Priority Queue
+
+Min heap / Max heap
+
+Kth largest element
+
+Merge K sorted arrays
+
+Top K frequent elements
+
+👉 LC:
+215, 347, 23
+
+🟢 12. Greedy Algorithms
+
+Activity selection
+
+Fractional knapsack
+
+Job sequencing
+
+Minimum platforms
+
+Gas station
+
+👉 LC:
+134, 435
+
+🟢 13. Dynamic Programming (🔥🔥🔥 MOST IMPORTANT)
+Basics
+
+Fibonacci (DP)
+
+Climbing stairs
+
+House robber
+
+Medium
+
+Coin change
+
+Longest Common Subsequence
+
+Longest Increasing Subsequence
+
+0/1 Knapsack
+
+Matrix Chain Multiplication
+
+Advanced
+
+Edit distance
+
+Palindrome partitioning
+
+DP on grids
+
+👉 LC:
+70, 198, 322, 1143, 300, 72
+
+🟢 14. Graphs
+
+BFS
+
+DFS
+
+Cycle detection
+
+Topological sort
+
+Dijkstra
+
+Bellman Ford
+
+Floyd Warshall
+
+Prim’s Algorithm
+
+Kruskal Algorithm
+
+👉 LC:
+200, 207, 210, 743
+
+🟢 15. Bit Manipulation
+
+Check odd/even
+
+Single number
+
+Count set bits
+
+Power of two
+
+XOR problems
+
+👉 LC:
+136, 191, 231
+
